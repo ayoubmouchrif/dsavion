@@ -1,0 +1,6 @@
+input AvionInput{
+    color: String
+    model: String
+    matricul: String
+    price: Float
+}
